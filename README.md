@@ -6,9 +6,6 @@ Boston, MA
 MS in Computer Science — Clark University (Expected May 2026)
 Former Software Engineer — LTIMindtree
 
-GitHub: https://github.com/BhavethraBaabu
-LinkedIn: https://linkedin.com/in/bhavethrab24
-Email: [bbaabu@clarku.edu](mailto:bbaabu@clarku.edu)
 
 ---
 
