@@ -1,25 +1,152 @@
-# Hi, I'm Bhavethra Baabu
-    
-    Software Engineer | Python, FastAPI, Django | Backend & Cloud APIs | MS CS @ Clark University | Ex- LTIMindtree
-    
-    ###  Tech Stack
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-    ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    
-    ### Latest Projects
-    - **[Real-Time-Monitoring-Microservice-Python-FastAPI](https://github.com/BhavethraBaabu/Real-Time-Monitoring-Microservice-Python-FastAPI)**: A cloud-native observability demo using Python FastAPI, Prometheus, and Grafana.
-    - **[splitwise-splitter](https://github.com/BhavethraBaabu/splitwise-splitter)**: A debt optimization tool to minimize settlement transactions.
-    
-    ### GitHub Stats
-    ![Bhavethra's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavethraBaabu&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavethraBaabu&layout=compact&theme=radical)
-    
-    ###  Connect with me
-    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavethrab24)
-    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavethra2401@gmail.com)
-    
+# Bhavethra Baabu
+
+Backend Software Engineer focused on building scalable APIs, cloud-native services, and distributed systems.
+
+Boston, MA
+MS in Computer Science — Clark University (Expected May 2026)
+Former Software Engineer — LTIMindtree
+
+GitHub: https://github.com/BhavethraBaabu
+LinkedIn: https://linkedin.com/in/bhavethrab24
+Email: [bbaabu@clarku.edu](mailto:bbaabu@clarku.edu)
+
+---
+
+## About
+
+I build backend systems and developer tooling using Python and modern cloud infrastructure.
+My interests include distributed systems, API architecture, observability, and AI-assisted developer tools.
+
+Previously at LTIMindtree, I worked on automation tooling, backend APIs, and monitoring infrastructure for cloud-hosted SaaS platforms. My work focused on improving system reliability, reducing operational overhead, and accelerating developer workflows.
+
+---
+
+## Technical Skills
+
+Languages
+Python, Java, JavaScript, TypeScript
+
+Backend
+FastAPI, Django, Flask, Spring Boot, REST APIs, Microservices
+
+API and Security
+OAuth2, JWT, API Gateway, Rate Limiting, RBAC
+
+Databases
+PostgreSQL, MySQL, MongoDB
+
+Caching and Messaging
+Redis, Kafka, RabbitMQ
+
+Async Processing
+Celery, RQ, Cron Jobs
+
+Cloud and Infrastructure
+AWS (EC2, S3, IAM, RDS, Lambda, CloudWatch)
+Docker, Kubernetes
+
+CI/CD and DevOps
+GitHub Actions, Jenkins, Terraform
+
+Observability
+Prometheus, Grafana, ELK Stack, CloudWatch
+
+Testing
+PyTest, JUnit, Integration Testing
+
+---
+
+## Selected Projects
+
+### Cognicode — AI Developer Assistant (VSCode Extension)
+
+TypeScript, GPT-4, VSCode API
+
+An AI-powered developer assistant integrated into VSCode that performs contextual code analysis and provides explanations using LLMs.
+
+Key work:
+
+* Built contextual analysis pipeline extracting editor context including imports, symbols, and selected code
+* Integrated GPT APIs to generate explanations and development insights
+* Refactored the extension into modular architecture improving maintainability and iteration speed
+* Implemented CI/CD pipeline for automated testing, Docker builds, and deployment
+
+Repository
+https://github.com/BhavethraBaabu
+
+---
+
+### NextHire — AI Job Matching Platform
+
+Python, SBERT, FAISS, Streamlit
+
+AI-powered resume to job matching engine using semantic embeddings.
+
+Key work:
+
+* Built semantic similarity pipeline using SBERT embeddings
+* Implemented resume parsing and ranking engine with FAISS vector search
+* Added keyword-gap detection to provide interpretable matching feedback
+* Designed interactive Streamlit application for real-time scoring
+
+---
+
+### Real-Time Monitoring Microservice
+
+Python, FastAPI, Prometheus, Grafana, Docker
+
+Cloud-native observability service exposing application metrics and system health endpoints.
+
+Key features:
+
+* Prometheus metrics instrumentation
+* Dockerized microservice architecture
+* Grafana dashboards for real-time monitoring
+* Health checks and service diagnostics
+
+Repository
+https://github.com/BhavethraBaabu/Real-Time-Monitoring-Microservice-Python-FastAPI
+
+---
+
+## Experience
+
+### LTIMindtree — Software Engineer
+
+July 2022 – July 2024
+
+Worked on backend services, automation tooling, and monitoring infrastructure for enterprise SaaS systems.
+
+Highlights:
+
+* Built internal REST APIs to automate operational tasks and service integrations
+* Developed deployment automation and patch management scripts
+* Implemented monitoring pipelines with metrics, logs, and uptime checks
+* Improved API reliability through structured logging, error handling, and retry strategies
+
+---
+
+## Interests
+
+Distributed Systems
+Backend Architecture
+Developer Tooling
+AI Applications in Software Engineering
+
+---
+
+## GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=BhavethraBaabu&show_icons=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=BhavethraBaabu&layout=compact
+
+---
+
+## Contact
+
+LinkedIn
+https://linkedin.com/in/bhavethrab24
+
+Email
+[bbaabu@clarku.edu](mailto:bbaabu@clarku.edu)
