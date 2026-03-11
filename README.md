@@ -132,14 +132,6 @@ AI Applications in Software Engineering
 
 ---
 
-## GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=BhavethraBaabu&show_icons=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=BhavethraBaabu&layout=compact
-
----
-
 ## Contact
 
 LinkedIn
