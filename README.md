@@ -1,247 +1,140 @@
-# Hi, I'm Bhavethra Baabu
+# Hey, I'm Bhavethra
 
-### Backend Software Engineer | Java • Spring Boot • Python • AWS • Distributed Systems
+**Software Engineer focused on backend development, cloud systems, and APIs.**
 
-I build backend systems, APIs, and cloud-native services with a focus on **reliability, scalability, and clean architecture**.
+I like building things that are actually useful — backend services, developer tools, and applications that involve a bit of distributed systems or AI.
 
-Currently working across **Java/Spring Boot, Python, TypeScript, PostgreSQL, AWS, and distributed systems**, while building AI-powered applications using **RAG, vector search, and LLMs**.
+Most of my recent work has been around **Java, Spring Boot, Python, PostgreSQL, AWS, and TypeScript**.
 
-Previously, I worked as a Software Engineer at **LTIMindtree**, building backend services and enterprise financial workflows with Java and Spring Boot.
-
----
-
-## What I Work On
-
-```text
-Backend Engineering
-├── REST APIs & Microservices
-├── Java / Spring Boot
-├── Python / FastAPI
-├── PostgreSQL & Redis
-└── API Security
-
-Cloud & Distributed Systems
-├── AWS
-├── Docker & Kubernetes
-├── Event-driven architecture
-├── Caching & Load Balancing
-└── Observability
-
-AI Engineering
-├── RAG
-├── Vector Search
-├── LLM Applications
-└── AI-powered Developer Tools
-```
+Previously, I worked as a Software Engineer at LTIMindtree, where I worked mainly on Java/Spring Boot backend services and enterprise financial systems.
 
 ---
 
-## Tech Stack
+## Experience
 
-### Languages
+**Software Engineer — LTIMindtree**
+`Jul 2022 – Jul 2024`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+Worked on backend services for enterprise financial systems using **Java, Spring Boot, JPA, and Hibernate**.
 
-### Backend & APIs
+* Built REST APIs and backend modules for financial workflows
+* Worked on secure file transfer and automated processing
+* Improved legacy services and database operations
+* Added validation, RBAC, error handling, and monitoring
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+**Software Engineer Intern — SciQuel**
+`Jan 2026 – May 2026`
 
-REST APIs • Microservices • API Gateway • JWT • OAuth2 • WebSockets
+Worked across **Next.js, TypeScript, PostgreSQL, and Prisma** to build and improve production features.
 
-### Databases & Messaging
+* Built REST APIs and reusable frontend components
+* Optimized PostgreSQL queries and application performance
+* Investigated and fixed production issues
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+**Full Stack Developer — DQ Pursuit**
+`Aug 2026 – Present`
 
-PostgreSQL • MongoDB • Redis • pgvector • Kafka • Redis Streams • Amazon SQS
+Working on web application features using **React, Next.js, TypeScript, Python, and PostgreSQL**.
 
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-
-EC2 • S3 • RDS • Lambda • CloudWatch • Docker • Kubernetes • CI/CD • Maven
-
-### Observability & Testing
-
-Prometheus • Grafana • JUnit 5 • Mockito • PyTest • Postman • Integration Testing
-
-### Architecture
-
-`Distributed Systems` · `Microservices` · `Caching` · `Load Balancing` · `Circuit Breakers` · `Event-Driven Systems`
-
-### AI / LLM
-
-`RAG` · `Vector Search` · `LangChain` · `OpenAI API` · `Groq Llama` · `Prompt Engineering`
+* Building full-stack application features and backend APIs
+* Working on an AI-powered chatbot for project and onboarding workflows
+* Implemented Twilio Verify SMS authentication and OTP handling
+* Working with CI/CD and automated testing workflows
 
 ---
 
-## Featured Projects
+## What I work with
 
-### CampusPulse — AI Academic Search
+**Backend**
 
-**Next.js • TypeScript • Python • PostgreSQL • Qdrant • Groq Llama 3.1**
+Java · Spring Boot · Python · FastAPI · REST APIs · Microservices
 
-An AI-powered academic search platform that provides natural-language answers across **285+ university pages**.
+**Frontend**
 
-* Built data ingestion, transformation, and indexing pipelines
-* Implemented semantic search and AI-assisted content retrieval
-* Exposed backend functionality through REST APIs
-* Presented the project at the Clark University Tech Innovation Challenge
+TypeScript · JavaScript · React · Next.js
 
-[View Repository](https://github.com/BhavethraBaabu)
+**Data**
+
+PostgreSQL · MongoDB · Redis · Kafka · pgvector
+
+**Cloud / DevOps**
+
+AWS · Docker · Kubernetes · GitHub Actions · CI/CD
+
+**Other**
+
+WebSockets · JWT · OAuth2 · Prometheus · Grafana · JUnit · Mockito
+
+**AI**
+
+RAG · Vector Search · LangChain · OpenAI API · LLM applications
 
 ---
 
-### CoinPulse — Real-Time Market Data Platform
+## Some things I've built
 
-**Next.js • TypeScript • PostgreSQL • WebSockets • REST APIs**
+### CampusPulse
 
-A real-time event-driven platform for streaming cryptocurrency market data.
+An AI-powered search tool for university information.
 
-* Built a WebSocket-based real-time data pipeline using Binance APIs
-* Streamed live market data for **1,000+ cryptocurrency assets**
-* Implemented candlestick visualizations and real-time updates
-* Optimized server-side rendering and caching
-* Delivered market updates within approximately **2 seconds**
+I built the data ingestion and indexing pipeline and used **Qdrant + Groq Llama 3.1** to make 285+ university pages searchable through natural language.
 
-[View Repository](https://github.com/BhavethraBaabu)
+**Stack:** Next.js, TypeScript, Python, PostgreSQL, Qdrant
+
+→ [GitHub](https://github.com/BhavethraBaabu)
+
+---
+
+### CoinPulse
+
+A real-time cryptocurrency dashboard built around streaming market data.
+
+The interesting part of this project was the real-time pipeline — WebSockets, Binance APIs, server-side rendering, and caching.
+
+It handles live data for 1,000+ assets and updates the UI in roughly 2 seconds.
+
+**Stack:** Next.js, TypeScript, PostgreSQL, WebSockets
+
+→ [GitHub](https://github.com/BhavethraBaabu)
 
 ---
 
 ### Real-Time Monitoring Microservice
 
-**Python • FastAPI • Prometheus • Grafana • Docker**
+A small monitoring service I built to explore application observability.
 
-A cloud-native monitoring service for application health and system metrics.
+It exposes health and metrics endpoints, collects Prometheus metrics, and uses Grafana for dashboards.
 
-* Built REST endpoints for service health and diagnostics
-* Added Prometheus metrics instrumentation
-* Containerized the service with Docker
-* Created Grafana dashboards for monitoring
-* Designed the service around observable microservice patterns
+**Stack:** Python, FastAPI, Prometheus, Grafana, Docker
 
-[View Repository](https://github.com/BhavethraBaabu/Real-Time-Monitoring-Microservice-Python-FastAPI)
+→ [GitHub](https://github.com/BhavethraBaabu/Real-Time-Monitoring-Microservice-Python-FastAPI)
 
 ---
 
-## Architecture Focus
+## Things I'm currently learning
 
-I enjoy designing systems where the individual components are simple, observable, and independently scalable.
-
-```text
-                    ┌──────────────────┐
-                    │    Client / UI   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   API Gateway    │
-                    │ Auth / Rate Limit│
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-        ┌──────────┐   ┌──────────┐   ┌──────────┐
-        │ Service A│   │ Service B│   │ Service C│
-        │ Spring   │   │ FastAPI  │   │ AI/RAG   │
-        └────┬─────┘   └────┬─────┘   └────┬─────┘
-             │              │              │
-             └──────────────┼──────────────┘
-                            ▼
-                 ┌────────────────────┐
-                 │ PostgreSQL / Redis │
-                 │ Kafka / SQS        │
-                 └─────────┬──────────┘
-                           │
-                           ▼
-                 ┌────────────────────┐
-                 │ AWS Infrastructure │
-                 │ Observability      │
-                 └────────────────────┘
-```
-
-Areas I care about:
-
-* API design and versioning
-* Authentication and authorization
-* Database design and query performance
-* Caching and rate limiting
-* Asynchronous processing
-* Event-driven architecture
-* Fault tolerance and retries
-* Monitoring and observability
-* Horizontal scalability
-
----
-
-## Engineering Principles
-
-```text
-Simple systems are easier to scale.
-Observable systems are easier to operate.
-Well-designed APIs are easier to evolve.
-Failures should be expected and isolated.
-Performance starts with good architecture.
-```
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhavethraBaabu&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavethraBaabu&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavethraBaabu&hide_border=true" />
-</p>
-
----
-
-## Currently Learning
-
-* Advanced Java and Spring Boot
-* Distributed systems
-* System design
+* Designing scalable backend systems
+* Distributed systems and system design
+* Java and Spring Boot
 * AWS architecture
 * Event-driven systems
-* Scalable backend APIs
-* AI infrastructure and RAG systems
+* Building better RAG applications
 
 ---
 
-## Let's Connect
+## GitHub
 
-I'm interested in **Software Engineer, Backend Engineer, Java/Spring Boot, Full Stack, and Cloud Engineering** opportunities.
-
-<p align="left">
-  <a href="https://github.com/BhavethraBaabu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/bhavethrab24">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://bhavethraBaabu.github.io/bhavethra-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:bbaabu@clarku.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavethraBaabu&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavethraBaabu&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### Building backend systems, one service at a time.
+## Find me
+
+[LinkedIn](https://linkedin.com/in/bhavethrab24) ·
+[Portfolio](https://bhavethraBaabu.github.io/bhavethra-portfolio/) ·
+[GitHub](https://github.com/BhavethraBaabu)
+
+**Email:** [bbaabu@clarku.edu](mailto:bbaabu@clarku.edu)
